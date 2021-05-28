@@ -1,0 +1,17 @@
+c54d3ebe228833a07811cc684fc30bae *DESCRIPTION
+50f25ca2f3361cd354f5a6a484206f10 *LICENSE
+37ef4426fc2e71c68bfb3540666adb08 *NAMESPACE
+d7992a17aad1239a809c111f97f3f6a0 *R/actual_values.R
+d37eea64f03ecdcb70edfa6482d24433 *R/package-sampsizeval.R
+41c79ebaa7e25c458038f5f45641ffba *R/sampsizeval.R
+26a0bbe206bba239065b63a2c361e86f *R/size_c_app.R
+fed1d484ae8e53c7e091c1973b96a639 *R/size_c_ni.R
+19be079007078e807c88bb4e0e5da59a *R/size_cl_app.R
+ba3b97ed7d8b31431493c5f3d3a7b2f7 *R/size_cl_ni.R
+02dae698aa6c2c18d4e333eda1cc024b *R/size_cs_app.R
+f7fd3da1faa65fb8b3e4ecb0210dcfc4 *R/size_cs_ni.R
+c907aa0b7d898530e654aa54c0aaf7bf *R/tune_mu_sigma.R
+9608cff2a3bb52f7b8ccccd367124878 *README.md
+7ed41c1e610e359c2d5e9d48a861721b *man/sampsizeval.Rd
+a5a5bb182279536c96b165d2479376e6 *tests/testthat.R
+4cc7c63b3d835849746f780f640843e6 *tests/testthat/test-sampsizeval.R
